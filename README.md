@@ -1,3 +1,7 @@
+
+
+
+
 # AWS IoT Device SDK v2 for Python
 
 [![Version](https://img.shields.io/pypi/v/awsiotsdk.svg?style=flat)](https://pypi.org/project/awsiotsdk/)
