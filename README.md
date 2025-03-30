@@ -1,5 +1,5 @@
 
-
+hqdefault_78966.avif image architect 
 
 
 # AWS IoT Device SDK v2 for Python
